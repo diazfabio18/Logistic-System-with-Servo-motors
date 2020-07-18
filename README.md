@@ -1,10 +1,10 @@
-# Sistema-Logistico-con-Servomotores
+# Logistic System with Servo-motor's
 
-_Desarrollo de sistema de control que clasifica artículos por su color y los guarda en diferentes compartimientos mediante el moviemiento de sevomotores controlados por el usuario_
+Clasficator of articles by color. For each box analized through sensor, the sevomotors moves the box to sections different
 
-# Requisitos
+# Requeriments
 
 * MCU- Xpresso
 * LPC NXP 1769
-* Servomotores 5v
-* Modulo color-sense Arduino
+* Servomotors 5v DC
+* Module color-sense Arduino
